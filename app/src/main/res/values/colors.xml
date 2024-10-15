@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_light_primary">#00ffff</color> <!-- Color primario para el tema claro -->
+    <color name="my_dark_primary">#BB86FC</color>  <!-- Color primario para el tema oscuro -->
+    <color name="button_text_color">#FFFFFF</color> <!-- Color del texto del botón -->
+</resources>
